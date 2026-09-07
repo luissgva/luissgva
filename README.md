@@ -1,3 +1,6 @@
+Aqui está o código exatamente com a inclusão de `;`, `and or more` e `.` entre os elementos, do jeito que você pediu:
+
+```html
 <div align="center">
 
 ## Hi, there! 👋
@@ -30,3 +33,5 @@
 </p>
 
 </div>
+
+```
